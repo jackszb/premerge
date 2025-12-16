@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "github.com",
+        "api.github.com",
+        "gist.github.com",
+        "raw.githubusercontent.com",
+        "githubusercontent.com"
+      ]
+    }
+  ]
+}
