@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "netflix.com",
+        "www.netflix.com",
+        "api.netflix.com",
+        "m.netflix.com",
+        "nflxext.com",
+        "nflxvideo.net",
+        "nflximg.net",
+        "netflix.net"
+      ]
+    }
+  ]
+}
