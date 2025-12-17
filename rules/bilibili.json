@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ourdvsss.com",
+        "ksyungslb.com",
+        "00cdn.com",
+        "akamaized.net",
+        "bilibili.com",
+        "biligame.com",
+        "bilivideo.com",
+        "hdslb.com",
+        "animetamashi.com",
+        "anitama.net",
+        "acg.tv",
+        "b23.tv",
+        "baka.im",
+        "bigfunapp.cn",
+        "bilicdn.com",
+        "biliplus.com",
+        "corari.com",
+        "dreamcast.hk",
+        "dyhgames.com",
+        "im9.com",
+        "maoercdn.com",
+        "mcbbs.net",
+        "mincdn.com",
+        "sharejoytech.com",
+        "smtcdns.net",
+        "yo9.com"
+      ]
+    }
+  ]
+}
