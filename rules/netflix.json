@@ -3,14 +3,31 @@
   "rules": [
     {
       "domain": [
-        "netflix.com",
+        "e13252.dscg.akamaiedge.net",
+        "h-netflix.online-metrix.net",
+        "netflix.com.edgesuite.net",
         "www.netflix.com",
         "api.netflix.com",
-        "m.netflix.com",
+        "m.netflix.com"
+      ],
+      "domain_suffix": [
+        "cookielaw.org",
+        "fast.com",
+        "flxvpn.net",
+        "netflix.ca",
+        "netflix.com",
+        "netflix.net",
+        "netflixinvestor.com",
+        "netflixstudios.com",
+        "netflixtechblog.com",
         "nflxext.com",
-        "nflxvideo.net",
+        "nflximg.com",
         "nflximg.net",
-        "netflix.net"
+        "nflxsearch.net",
+        "nflxso.net",
+        "nflxvideo.net",
+        "onetrust.com",
+        "us-west-2.amazonaws.com"
       ]
     }
   ]
