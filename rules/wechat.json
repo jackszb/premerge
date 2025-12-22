@@ -2,9 +2,20 @@
   "version": 3,
   "rules": [
     {
-      "domain": [
-        "weixin.qq.com",
+      "domain_suffix": [
+        "wechat.com",
+        "tenpay.com",
+        "qq.com",
         "wx.qq.com",
+        "wx.tenpay.com",
+        "wechatpay.com",
+        "weixin.com",
+        "weixin.qq.com",
+        "weixin.qq.com.cn",
+        "weixinbridge.com",
+        "weixinsxy.com",
+        "servicewechat.com",
+        "wechatlegal.net",
         "webpush.weixin.qq.com",
         "res.wx.qq.com",
         "wxsnsdy.wxs.qq.com",
@@ -21,18 +32,6 @@
         "sgminorshort.wechat.com",
         "sgquic.wechat.com",
         "sgshort.wechat.com"
-      ],
-      "domain_suffix": [
-        ".wechat.com",
-        ".tenpay.com",
-        ".qq.com",
-        ".wx.tenpay.com",
-        ".wechatpay.com",
-        ".weixin.com",
-        ".weixinbridge.com",
-        ".weixinsxy.com",
-        ".servicewechat.com",
-        ".wechatlegal.net"
       ]
     }
   ]
